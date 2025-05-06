@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Local-first service attribution, stale development server detection, AI runtime health monitoring, and open-weight model capacity planning."
 requires-python = ">=3.10"
 # guard against empty input
+# guard against empty input
